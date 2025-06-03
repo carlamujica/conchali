@@ -1,0 +1,15 @@
+var geojsonData = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.6667, -33.45]
+      },
+      "properties": {
+        "nombre": "Punto de ejemplo"
+      }
+    }
+  ]
+};
